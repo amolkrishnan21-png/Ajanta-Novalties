@@ -1,0 +1,2 @@
+# Ajanta-Novalties
+personal project
